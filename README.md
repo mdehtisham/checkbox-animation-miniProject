@@ -4,3 +4,6 @@
 
 - ### It will ask how do you want your project to be?
 - You can only select two options either *Good* and *Fast* or *Cheap* and *Fast* or *Good* and *Cheap*.
+
+- # How to use?
+  - Just Download/Clone the repository and run the index.html file.
